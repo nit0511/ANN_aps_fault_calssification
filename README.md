@@ -29,17 +29,4 @@ You can install the required libraries using pip:
 ```bash
 pip install tensorflow scikit-learn pandas numpy matplotlib keras-tuner
 
-## Dataset
-The dataset used in this project is the APS Fault Detection dataset, which can be found at APS Data.
-Data Description
-The dataset contains various features related to the APS and indicates whether a fault has occurred.
-The target variable is named class, which indicates the presence or absence of faults.
-Make sure to place the aps_data.csv file in the correct directory:
-
-```javascript
-D:/PythonProject/ANN Implementation/aps_data.csv
-
-
-
-
 
